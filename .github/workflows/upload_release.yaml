@@ -64,7 +64,7 @@ jobs:
           docker buildx build --output type=docker --tag ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }} .
           docker push ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}
 
-      # Security scanning
+      # Run Trivy security scanning
       - name: Run Trivy vulnerability scanner
         uses: aquasecurity/trivy-action@0.18.0
         with:
