@@ -1,8 +1,7 @@
-name: Upload Release
+name: Run Trivy
 
-on:
-  release:
-    types: published
+on: push
+
 
 jobs:
   upload:
@@ -11,17 +10,12 @@ jobs:
     permissions:
       contents: write
       packages: write
+      security-events: write # for github/codeql-action/upload-sarif to upload SARIF results
 
     steps:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-
-      - name: Cache Local Maven Repository
-        uses: actions/cache@v3
-        with:
-          path: ~/.m2/repository
-          key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
 
       - name: Setup GitHub Packages
         uses: actions/setup-java@v3
@@ -34,16 +28,8 @@ jobs:
 
       - name: Create jar and rpm
         run: |
-          mvn -B -Drevision=${{ env.RELEASE_VERSION }} -Dsha1= -Dchangelist= clean verify deploy;
+          mvn -B -Drevision=${{ env.RELEASE_VERSION }} -Dsha1= -Dchangelist= clean verify package;
           cd rpm/ && mvn -B -Drevision=${{ env.RELEASE_VERSION }} -Dsha1= -Dchangelist= -f rpm.pom.xml package;
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-
-      - name: Attach rpm as artifact on releases
-        uses: softprops/action-gh-release@v1
-        if: startsWith(github.ref, 'refs/tags/')
-        with:
-          files: target/rpm/com.teragrep-cfe_16/RPMS/noarch/com.teragrep-cfe_16-*.rpm
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v2.5.0
@@ -61,4 +47,19 @@ jobs:
       - name: 'Build Image'
         run: |
           docker buildx build --output type=docker --tag ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }} .
-          docker push ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}
+
+      # Run Trivy security scanning
+      - name: Run Trivy vulnerability scanner
+        uses: aquasecurity/trivy-action@0.18.0
+        with:
+          format: 'sarif'
+          hide-progress: false
+          severity: 'UNKNOWN,LOW,MEDIUM,HIGH,CRITICAL'
+          scan-type: 'image'
+          image-ref: 'ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}'
+          output: 'trivy-results.sarif'
+
+      - name: Upload Trivy scan results to GitHub Security tab
+        uses: github/codeql-action/upload-sarif@v2
+        with:
+          sarif_file: 'trivy-results.sarif'
