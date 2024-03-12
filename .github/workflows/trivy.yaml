@@ -46,7 +46,7 @@ jobs:
 
       - name: 'Build Image'
         run: |
-          docker buildx build --output type=docker --tag ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }} .
+          docker buildx build --output type=docker --tag ghcr.io/${{ env.REPO_LC }}/app:${{ env.RELEASE_VERSION }} .
 
       # Run Trivy security scanning
       - name: Run Trivy vulnerability scanner
@@ -56,7 +56,7 @@ jobs:
           hide-progress: false
           severity: 'UNKNOWN,LOW,MEDIUM,HIGH,CRITICAL'
           scan-type: 'image'
-          image-ref: 'ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}'
+          image-ref: 'ghcr.io/${{ env.REPO_LC }}/app:${{ env.RELEASE_VERSION }}'
           output: 'trivy-results.sarif'
 
       - name: Upload Trivy scan results to GitHub Security tab
