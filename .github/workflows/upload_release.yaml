@@ -68,14 +68,16 @@ jobs:
       - name: Run Trivy vulnerability scanner
         uses: aquasecurity/trivy-action@0.18.0
         with:
-          format: 'sarif'
-          output: 'trivy-results.sarif'
+          format: 'github'
+          output: 'dependency-results.sbom.json'
           severity: 'UNKNOWN,LOW,MEDIUM,HIGH,CRITICAL'
-          scan-type: 'fs'
-          scan-ref: '${{ github.workspace }}'
+          scan-type: 'image'
+          image-ref: 'ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}'
+          scanners: 'vuln'
 
-      - name: Upload Trivy scan results to GitHub Security tab
-        uses: github/codeql-action/upload-sarif@v3
-        if: always()
+      - name: Upload trivy report as a Github artifact
+        uses: actions/upload-artifact@v4
         with:
-          sarif_file: 'trivy-results.sarif'
+          name: trivy-sbom-report
+          path: '${{ github.workspace }}/dependency-results.sbom.json'
+          retention-days: 20
