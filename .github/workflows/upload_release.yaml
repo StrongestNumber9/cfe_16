@@ -62,3 +62,26 @@ jobs:
         run: |
           docker buildx build --output type=docker --tag ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }} .
           docker push ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}
+
+      # Run Trivy security scanning
+      - name: Run Trivy vulnerability scanner
+        uses: aquasecurity/trivy-action@0.18.0
+        with:
+          format: 'github'
+          hide-progress: false
+          scan-type: 'image'
+          image-ref: 'ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}'
+
+      - name: Run Trivy vulnerability scanner
+        uses: aquasecurity/trivy-action@0.18.0
+        with:
+          format: 'sarif'
+          hide-progress: false
+          scan-type: 'image'
+          image-ref: 'ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}'
+          output: 'trivy-results.sarif'
+
+      - name: Upload Trivy scan results to GitHub Security tab
+        uses: github/codeql-action/upload-sarif@v2
+        with:
+          sarif_file: 'trivy-results.sarif'
