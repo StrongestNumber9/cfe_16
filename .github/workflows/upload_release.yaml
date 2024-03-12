@@ -68,7 +68,7 @@ jobs:
       - name: Run Trivy vulnerability scanner
         uses: aquasecurity/trivy-action@0.18.0
         with:
-          format: 'table'
+          format: 'sarif'
           hide-progress: false
           severity: 'UNKNOWN,LOW,MEDIUM,HIGH,CRITICAL'
           scan-type: 'image'
