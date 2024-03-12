@@ -28,8 +28,8 @@ jobs:
 
       - name: Create jar and rpm
         run: |
-          mvn -B -Drevision=${{ env.RELEASE_VERSION }} -Dsha1= -Dchangelist= clean verify package;
-          cd rpm/ && mvn -B -Drevision=${{ env.RELEASE_VERSION }} -Dsha1= -Dchangelist= -f rpm.pom.xml package;
+          mvn -B -Dmaven.test.skip=true -Drevision=${{ env.RELEASE_VERSION }} -Dsha1= -Dchangelist= clean verify package;
+          cd rpm/ && mvn -B -Dmaven.test.skip=true -Drevision=${{ env.RELEASE_VERSION }} -Dsha1= -Dchangelist= -f rpm.pom.xml package;
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v2.5.0
