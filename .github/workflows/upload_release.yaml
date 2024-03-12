@@ -13,6 +13,7 @@ jobs:
       packages: write
       id-token: write
       security-events: write # To upload sarif files
+      actions: read
     steps:
       - uses: actions/checkout@v3
         with:
@@ -79,6 +80,7 @@ jobs:
         uses: github/codeql-action/upload-sarif@v3
         with:
           sarif_file: 'trivy-results.sarif'
+          matrix: 'trivy'
 
       - name: Upload trivy report as a Github artifact
         uses: actions/upload-artifact@v4
