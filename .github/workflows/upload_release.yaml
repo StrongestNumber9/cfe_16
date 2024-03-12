@@ -11,7 +11,8 @@ jobs:
     permissions:
       contents: write
       packages: write
-
+      id-token: write
+      security-events: write # To upload sarif files
     steps:
       - uses: actions/checkout@v3
         with:
@@ -67,21 +68,24 @@ jobs:
       - name: Run Trivy vulnerability scanner
         uses: aquasecurity/trivy-action@0.18.0
         with:
-          format: 'github'
-          hide-progress: false
-          scan-type: 'image'
-          image-ref: 'ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}'
-
-      - name: Run Trivy vulnerability scanner
-        uses: aquasecurity/trivy-action@0.18.0
-        with:
           format: 'sarif'
           hide-progress: false
           scan-type: 'image'
           image-ref: 'ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}'
           output: 'trivy-results.sarif'
+          github-pat: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Test
+        run: cat trivy-results.sarif
 
       - name: Upload Trivy scan results to GitHub Security tab
-        uses: github/codeql-action/upload-sarif@v2
+        uses: github/codeql-action/upload-sarif@v3
         with:
           sarif_file: 'trivy-results.sarif'
+
+      - name: Upload trivy report as a Github artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: trivy-sbom-report
+          path: '${{ github.workspace }}/trivy-results.sarif'
+          retention-days: 20
