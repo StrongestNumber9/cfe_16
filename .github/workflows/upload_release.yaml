@@ -68,11 +68,11 @@ jobs:
       - name: Run Trivy vulnerability scanner
         uses: aquasecurity/trivy-action@0.18.0
         with:
-          image-ref: 'ghcr.io/${{ env.REPO_LC }}/app:${{ github.event.release.tag_name }}'
           format: 'sarif'
           output: 'trivy-results.sarif'
           severity: 'UNKNOWN,LOW,MEDIUM,HIGH,CRITICAL'
-          scan-type: 'image'
+          scan-type: 'fs'
+          scan-ref: '.'
 
       - name: Upload Trivy scan results to GitHub Security tab
         uses: github/codeql-action/upload-sarif@v3
