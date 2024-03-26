@@ -46,10 +46,12 @@
 
 package com.teragrep.cfe_16;
 
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 public class Cfe16ApplicationTests {
 
+    @Disabled(value="Not implemented")
     @Test
     public void contextLoads() {
     }
