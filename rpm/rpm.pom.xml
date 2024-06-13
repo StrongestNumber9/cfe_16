@@ -79,8 +79,8 @@
           <group>Fail-Safe/LogManagementSuite</group>
           <description>${project.groupId}-${project.artifactId}</description>
           <needarch>false</needarch>
-          <defaultUsername>root</defaultUsername>
-          <defaultGroupname>root</defaultGroupname>
+          <defaultUsername>srv-cfe_16</defaultUsername>
+          <defaultGroupname>srv-cfe_16</defaultGroupname>
           <defaultFilemode>0644</defaultFilemode>
           <defaultDirmode>0755</defaultDirmode>
           <defineStatements>
@@ -92,8 +92,8 @@
               <directoryIncluded>true</directoryIncluded>
               <filemode>755</filemode>
               <dirmode>755</dirmode>
-              <username>root</username>
-              <groupname>root</groupname>
+              <username>srv-cfe_16</username>
+              <groupname>srv-cfe_16</groupname>
               <recurseDirectories>true</recurseDirectories>
               <sources>
                 <source>
@@ -105,6 +105,13 @@
           <requires>
             <require>java-1.8.0-openjdk</require>
           </requires>
+          <preinstallScriptlet>
+            <script>
+getent group srv-cfe_16 > /dev/null || groupadd -r srv-cfe_16;
+getent passwd srv-cfe_16 > /dev/null || useradd -r -g srv-cfe_16 -d /opt/teragrep/${project.artifactId} -s /sbin/nologin -c "Service User" srv-cfe_16;
+exit 0;
+            </script>
+          </preinstallScriptlet>
         </configuration>
       </plugin>
       <plugin>
