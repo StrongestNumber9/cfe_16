@@ -47,7 +47,7 @@
 package com.teragrep.cfe_16;
 
 import com.teragrep.cfe_16.bo.HeaderInfo;
-import jakarta.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletRequest;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
