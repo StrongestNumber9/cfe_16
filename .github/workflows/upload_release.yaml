@@ -2,7 +2,7 @@ name: Upload Release
 
 on:
   release:
-    types: [created]
+    types: [published]
 
 jobs:
   upload:
