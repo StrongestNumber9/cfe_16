@@ -1,1 +1,1 @@
-var branches = ["docs", "add_techdocs", "master"]
+var branches = ["add_techdocs", "docs", "master"]
