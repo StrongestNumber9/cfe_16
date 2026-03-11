@@ -1,9 +1,7 @@
 var searchData=
 [
-  ['xforwardedfor_0',['xForwardedFor',['../classcom_1_1teragrep_1_1cfe__16_1_1bo_1_1HeaderInfo.html#af46ec4b9013f4d272a3f3f6fdfb316d0',1,'com::teragrep::cfe_16::bo::HeaderInfo']]],
-  ['xforwardedforstub_1',['xForwardedForStub',['../classcom_1_1teragrep_1_1cfe__16_1_1service_1_1HECServiceImpl.html#a0107710bdae951454246ae81915bd027',1,'com::teragrep::cfe_16::service::HECServiceImpl']]],
-  ['xforwardedhost_2',['xForwardedHost',['../classcom_1_1teragrep_1_1cfe__16_1_1bo_1_1HeaderInfo.html#aeabb7dd8d44099f078387667fa5d87dc',1,'com::teragrep::cfe_16::bo::HeaderInfo']]],
-  ['xforwardedhoststub_3',['xForwardedHostStub',['../classcom_1_1teragrep_1_1cfe__16_1_1service_1_1HECServiceImpl.html#a30e7809afa6821805a24cbb55291e57d',1,'com::teragrep::cfe_16::service::HECServiceImpl']]],
-  ['xforwardedproto_4',['xForwardedProto',['../classcom_1_1teragrep_1_1cfe__16_1_1bo_1_1HeaderInfo.html#a9593afd0e628d32ff5819d6d9087643d',1,'com::teragrep::cfe_16::bo::HeaderInfo']]],
-  ['xforwardedprotostub_5',['xForwardedProtoStub',['../classcom_1_1teragrep_1_1cfe__16_1_1service_1_1HECServiceImpl.html#abc4358268c4a24af7873f9eb80252949',1,'com::teragrep::cfe_16::service::HECServiceImpl']]]
+  ['text_0',['text',['../classcom_1_1teragrep_1_1cfe__16_1_1exceptionhandling_1_1HECErrorResponse.html#a81f521462d20b4781f36d844b96e3724',1,'com::teragrep::cfe_16::exceptionhandling::HECErrorResponse']]],
+  ['throwable_1',['throwable',['../classcom_1_1teragrep_1_1cfe__16_1_1response_1_1ExceptionEvent.html#a6cce0ba4495afbe52488e0d1dbc6d761',1,'com::teragrep::cfe_16::response::ExceptionEvent']]],
+  ['tokenmanager_2',['tokenManager',['../classcom_1_1teragrep_1_1cfe__16_1_1service_1_1HECServiceImpl.html#a68e4622e0a4bc796f6b7444d69b7b4eb',1,'com::teragrep::cfe_16::service::HECServiceImpl']]],
+  ['trysenderrorcounter_3',['trySendErrorCounter',['../classcom_1_1teragrep_1_1cfe__16_1_1ThirdParty_1_1SyslogMessageSender_1_1SyslogMessageSender.html#a3137428dcc8ed61afb517ab0616e4027',1,'com::teragrep::cfe_16::ThirdParty::SyslogMessageSender::SyslogMessageSender']]]
 ];
