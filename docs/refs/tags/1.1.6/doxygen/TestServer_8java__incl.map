@@ -1,0 +1,9 @@
+<map id="src/test/java/com/teragrep/cfe_16/server/TestServer.java" name="src/test/java/com/teragrep/cfe_16/server/TestServer.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="253,5,470,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,98,235,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,50,193,95,191,90,301,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="259,98,464,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="363,48,364,84,359,81,360,52"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="487,98,694,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="417,48,524,92,519,92,416,53"/>
+</map>

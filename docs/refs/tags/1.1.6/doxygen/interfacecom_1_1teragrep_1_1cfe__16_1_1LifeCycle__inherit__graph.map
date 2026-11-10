@@ -1,0 +1,7 @@
+<map id="com.teragrep.cfe_16.LifeCycle" name="com.teragrep.cfe_16.LifeCycle">
+<area shape="rect" id="Node000001" title="An interface that own resources like threads for doing graceful shutdown." alt="" coords="193,5,377,50"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html" title=" " alt="" coords="5,106,293,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,58,170,108,167,104,238,59"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1teragrep_1_1cfe__16_1_1SessionManager.html" title=" " alt="" coords="316,98,526,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="331,56,391,98,386,97,330,62"/>
+</map>

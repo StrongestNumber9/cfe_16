@@ -1,0 +1,9 @@
+<map id="com.teragrep.cfe_16.connection.RelpConnection" name="com.teragrep.cfe_16.connection.RelpConnection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,200,240,245"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="74,5,160,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,48,125,200,119,200,116,50"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1teragrep_1_1cfe__16_1_1connection_1_1RelpConnection.html" title=" " alt="" coords="139,82,373,127"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="152,38,222,81,217,83,151,44"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,137,149,202,146,197,217,138"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="388,97,400,105,392,112,374,115,373,110,389,107,394,105,388,102"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="src/test/java/com/teragrep/cfe_16/TokenManagerTests.java" name="src/test/java/com/teragrep/cfe_16/TokenManagerTests.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="258,5,490,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,106,132,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,53,129,104,127,99,300,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="156,106,373,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="350,49,293,99,291,94,345,51"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="397,106,572,134"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="401,48,459,97,454,96,399,53"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="596,98,829,143"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="455,48,619,93,614,94,455,53"/>
+</map>

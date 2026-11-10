@@ -1,0 +1,11 @@
+<map id="com.teragrep.cfe_16.it.SendMultipleEventsIT" name="com.teragrep.cfe_16.it.SendMultipleEventsIT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,200,326,245"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1server_1_1TestServer.html" title=" " alt="" coords="6,82,210,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,136,205,199,199,200,139,140"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,88,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="65,43,94,81,89,82,65,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="112,5,227,33"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="149,48,126,83,122,80,152,43"/>
+<area shape="rect" id="Node000005" href="$interfacecom_1_1teragrep_1_1cfe__16_1_1service_1_1HECService.html" title="An interface that specified the REST back end API." alt="" coords="233,82,444,127"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="309,138,247,202,244,197,304,139"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="com.teragrep.cfe_16.bo.Ack.getId" name="com.teragrep.cfe_16.bo.Ack.getId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="759,72,999,100"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a954c7b6f37e4bcd616879315307d85bb" title="Adds a new Ack object for given channel." alt="" coords="363,101,702,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="741,98,703,103,702,98,746,97"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1teragrep_1_1cfe__16_1_1it_1_1AcknowledgementsIT.html#a145cd25807c91ed7c62729cf106b5bbc" title=" " alt="" coords="5,28,306,72"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="834,65,777,42,710,23,597,10,482,9,373,17,279,30,278,24,373,12,482,4,597,5,712,18,779,37,840,65"/>
+<area shape="rect" id="Node000005" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a225a9f18c21826dc1bbc4ce0a82550ed" title=" " alt="" coords="366,33,698,78"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="741,74,699,73,699,67,746,74"/>
+<area shape="rect" id="Node000006" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a5307dc12a64ca957ae24430d09b372e1" title=" " alt="" coords="354,153,711,198"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="827,105,712,143,661,155,661,150,710,138,822,106"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,99,353,93,264,76,264,70,354,87,410,98"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1teragrep_1_1cfe__16_1_1it_1_1AcknowledgementsIT.html#a91fed96b6fad0dfd378ba9b0fa7fe5ed" title=" " alt="" coords="5,97,306,142"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="345,118,306,120,306,115,350,117"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="348,53,306,55,305,49,353,52"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="360,150,306,144,306,139,365,150"/>
+<area shape="rect" id="Node000007" href="$classcom_1_1teragrep_1_1cfe__16_1_1it_1_1AcknowledgementsIT.html#a28a8273d6b136df113665a5032aa8ca3" title=" " alt="" coords="5,166,306,211"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="335,182,306,186,306,181,341,182"/>
+</map>

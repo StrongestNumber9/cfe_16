@@ -1,0 +1,7 @@
+<map id="com.teragrep.cfe_16.HECBatch.toHECRecordList" name="com.teragrep.cfe_16.HECBatch.toHECRecordList">
+<area shape="rect" id="Node000001" title="Method used when converting data and the channel is specified in the request." alt="" coords="5,36,246,81"/>
+<area shape="rect" id="Node000002" href="$interfacecom_1_1teragrep_1_1cfe__16_1_1event_1_1JsonEvent.html#a2e48e78034dd0c690cf2a4b92ea3ca3f" title=" " alt="" coords="336,5,536,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,44,323,39,318,40,246,49"/>
+<area shape="rect" id="Node000003" href="$interfacecom_1_1teragrep_1_1cfe__16_1_1bo_1_1HECRecord.html#a3b507c60cb53c8a205df8161cd095fda" title=" " alt="" coords="294,74,579,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,67,281,73,275,73,246,72"/>
+</map>

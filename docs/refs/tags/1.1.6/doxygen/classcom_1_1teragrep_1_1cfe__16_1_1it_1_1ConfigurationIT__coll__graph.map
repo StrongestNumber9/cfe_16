@@ -1,0 +1,11 @@
+<map id="com.teragrep.cfe_16.it.ConfigurationIT" name="com.teragrep.cfe_16.it.ConfigurationIT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,200,357,228"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1server_1_1TestServer.html" title=" " alt="" coords="6,82,210,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,135,210,199,205,200,141,140"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,88,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="65,43,94,81,89,82,65,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="112,5,227,33"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="152,43,126,83,122,80,149,48"/>
+<area shape="rect" id="Node000005" href="$classcom_1_1teragrep_1_1cfe__16_1_1config_1_1Configuration.html" title="A Spring&#45;utilizing class for getting configuration data." alt="" coords="233,82,436,127"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="303,137,236,202,233,197,298,139"/>
+</map>

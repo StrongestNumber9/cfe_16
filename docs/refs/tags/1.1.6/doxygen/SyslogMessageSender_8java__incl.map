@@ -1,0 +1,37 @@
+<map id="src/main/java/com/teragrep/cfe_16/ThirdParty/SyslogMessageSender/SyslogMessageSender.java" name="src/main/java/com/teragrep/cfe_16/ThirdParty/SyslogMessageSender/SyslogMessageSender.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1721,5,1968,67"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,115,218,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1718,38,1454,45,1087,57,665,80,448,96,233,117,233,112,447,91,665,74,1087,51,1454,40,1724,38"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="242,115,464,160"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1718,40,1492,49,1185,62,836,85,479,117,479,112,836,79,1185,57,1492,44,1723,40"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="488,115,682,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1718,41,1527,51,1274,65,989,86,698,117,697,112,988,81,1273,60,1526,46,1724,41"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="706,115,901,160"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1718,44,1364,70,1142,91,916,117,916,112,1142,85,1363,65,1723,43"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="925,124,1101,151"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1724,47,1443,76,1278,95,1115,118,1086,123,1086,117,1114,112,1278,89,1442,70,1718,47"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1126,124,1308,151"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1724,54,1532,83,1320,118,1293,123,1293,117,1319,112,1531,78,1718,54"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1332,124,1513,151"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1724,66,1494,122,1493,117,1718,67"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1536,124,1711,151"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1780,67,1667,119,1666,114,1775,68"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1734,124,1956,151"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1847,66,1847,110,1843,106,1843,69"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1980,124,2056,151"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1898,65,1985,116,1979,115,1897,70"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="2080,124,2239,151"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1941,65,2106,119,2101,118,1941,70"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="2262,124,2348,151"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1969,53,2106,78,2251,112,2262,118,2257,118,2249,118,2105,83,1969,58"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="2371,124,2574,151"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1969,52,2360,112,2392,120,2386,120,2359,118,1969,58"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="2599,124,2835,151"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1969,46,2252,73,2587,112,2627,121,2622,120,2586,118,2251,79,1969,51"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="2858,124,2986,151"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1969,37,2143,42,2362,55,2605,78,2728,93,2848,112,2869,119,2864,119,2847,118,2727,99,2605,83,2362,61,2142,48,1969,42"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="3010,115,3210,160"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1969,38,2164,46,2418,60,2703,81,2997,115,2992,115,2703,87,2417,65,2164,51,1969,44"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="3234,124,3400,151"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="1969,35,2202,39,2514,51,2867,74,3047,91,3223,112,3253,120,3247,120,3222,118,3046,96,2867,79,2514,56,2202,44,1969,40"/>
+</map>
