@@ -1,0 +1,13 @@
+<map id="com.teragrep.cfe_16.server.TestServerFactory.create" name="com.teragrep.cfe_16.server.TestServerFactory.create">
+<area shape="rect" id="Node000001" title=" " alt="" coords="354,144,557,189"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1it_1_1AcknowledgementsIT.html#a885ac4ac1265af5651a0ddaa59d6da36" title=" " alt="" coords="5,5,306,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,134,364,98,305,65,275,53,274,48,307,60,367,94,419,134"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1teragrep_1_1cfe__16_1_1it_1_1ConfigurationIT.html#ad7f3d679c089f21d5dbaa77f84df96ea" title=" " alt="" coords="26,75,285,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="339,141,305,134,256,123,255,117,306,129,344,139"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1teragrep_1_1cfe__16_1_1it_1_1SendMultipleEventsIT.html#ae2d12d1555e5ef959d5deeaf0d6fdc00" title=" " alt="" coords="53,144,258,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,167,258,169,257,164,341,165"/>
+<area shape="rect" id="Node000005" href="$classcom_1_1teragrep_1_1cfe__16_1_1it_1_1SendSingleEventIT.html#a6eaeb286ac563a5d1573aeaed9b5bb0f" title=" " alt="" coords="53,213,258,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="339,194,306,204,256,215,255,210,305,198,344,192"/>
+<area shape="rect" id="Node000006" href="$classcom_1_1teragrep_1_1cfe__16_1_1it_1_1ServiceAndHECBatchIT.html#af9bebd2d8a6eb65fc88aecfde61a4243" title=" " alt="" coords="45,283,266,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="419,198,367,239,307,273,267,287,265,282,305,268,364,234,414,200"/>
+</map>

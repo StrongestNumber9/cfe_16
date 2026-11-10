@@ -1,4 +1,5 @@
 <map id="com.teragrep.cfe_16.response.ExceptionEvent.equals" name="com.teragrep.cfe_16.response.ExceptionEvent.equals">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,228,69"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="75,30,73,20,79,10,94,5,117,3,143,6,157,13,154,18,141,11,117,8,95,10,83,15,78,21,80,28"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,228,50"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1response_1_1ExceptionEvent.html#a54a60521dcb6f0c06d2fee4dac16075c" title=" " alt="" coords="276,5,503,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,25,263,28,257,28,228,30"/>
 </map>

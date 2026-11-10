@@ -1,17 +1,21 @@
 <map id="com.teragrep.cfe_16.it.AcknowledgementsIT.deleteAckTest" name="com.teragrep.cfe_16.it.AcknowledgementsIT.deleteAckTest">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,307,159"/>
-<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a954c7b6f37e4bcd616879315307d85bb" title="Adds a new Ack object for given channel." alt="" coords="359,5,699,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,117,263,78,308,57,354,41,393,31,395,36,355,46,310,62,265,82,192,122"/>
-<area shape="rect" id="Node000003" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a225a9f18c21826dc1bbc4ce0a82550ed" title=" " alt="" coords="362,55,695,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,117,398,95,399,100,274,122"/>
-<area shape="rect" id="Node000005" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a524b6158e1c70b00480d167b944f14ad" title="Returns the unmodifiable set of Acks for a channel." alt="" coords="372,119,685,159"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="307,137,358,137,358,142,307,142"/>
-<area shape="rect" id="Node000006" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a5287a2c95003a939f0314bc423d401cf" title="Returns the size of the Ack set of given channel." alt="" coords="372,183,685,223"/>
-<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="274,157,399,178,398,184,273,162"/>
-<area shape="rect" id="Node000007" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a06622ee4fcccb291cf0c97cb55189d83" title="This method has to be called first before calling any other Ack related methods." alt="" coords="355,247,703,287"/>
-<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="193,157,266,196,356,233,385,241,384,247,354,238,264,201,190,162"/>
-<area shape="rect" id="Node000004" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements_1_1State.html#ad9d95fec84a00a574b21981fc673f10a" title=" " alt="" coords="751,119,1043,159"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="645,93,768,114,767,120,644,98"/>
-<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="685,137,737,137,737,142,685,142"/>
-<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="644,181,767,159,768,164,645,186"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,142,306,187"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a954c7b6f37e4bcd616879315307d85bb" title="Adds a new Ack object for given channel." alt="" coords="358,5,697,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,140,261,93,306,69,353,49,405,36,400,38,355,54,308,74,263,98,190,144"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1teragrep_1_1cfe__16_1_1bo_1_1Ack.html#adb3e5a56225c791909edada3d89454b4" title=" " alt="" coords="774,56,1015,84"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="207,139,276,113,353,93,459,76,566,67,762,64,757,66,566,73,459,82,354,98,278,119,210,144"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a225a9f18c21826dc1bbc4ce0a82550ed" title=" " alt="" coords="361,108,694,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="305,148,348,146,343,148,307,153"/>
+<area shape="rect" id="Node000006" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a524b6158e1c70b00480d167b944f14ad" title="Returns the unmodifiable set of Acks for a channel." alt="" coords="371,177,684,222"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="306,176,358,182,353,184,306,181"/>
+<area shape="rect" id="Node000007" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a5287a2c95003a939f0314bc423d401cf" title="Returns the size of the Ack set of given channel." alt="" coords="371,246,684,291"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="215,185,282,209,354,231,389,242,384,242,353,236,280,214,215,190"/>
+<area shape="rect" id="Node000008" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a06622ee4fcccb291cf0c97cb55189d83" title="This method has to be called first before calling any other Ack related methods." alt="" coords="354,316,701,360"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="182,185,257,244,304,275,355,301,374,310,369,310,353,306,302,279,254,248,181,190"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="632,31,777,53,772,54,633,36"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="667,104,793,86,788,87,669,109"/>
+<area shape="rect" id="Node000005" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements_1_1State.html#ad9d95fec84a00a574b21981fc673f10a" title=" " alt="" coords="749,177,1040,222"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="650,150,760,173,755,174,650,155"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="684,197,736,199,731,200,684,202"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="649,243,755,225,760,224,650,248"/>
 </map>

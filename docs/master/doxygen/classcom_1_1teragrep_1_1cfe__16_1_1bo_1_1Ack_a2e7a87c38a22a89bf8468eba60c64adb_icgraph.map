@@ -1,0 +1,5 @@
+<map id="com.teragrep.cfe_16.bo.Ack.isAcknowledged" name="com.teragrep.cfe_16.bo.Ack.isAcknowledged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="366,5,584,50"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a991efdd07c7cbf8d24b5da93e342b55c" title="Returns the Ack statuses of requested Ack id:s as a JSON node." alt="" coords="5,5,318,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,28,318,30,318,25,353,28"/>
+</map>

@@ -1,5 +1,6 @@
 <map id="com.teragrep.cfe_16.rest.HECRestController.sendEventsWithFormatOption" name="com.teragrep.cfe_16.rest.HECRestController.sendEventsWithFormatOption">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,256,60"/>
-<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1MultiValueMapRequest.html#a977855c9c215f3cb40685959791127e9" title=" " alt="" coords="304,13,580,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,30,290,30,290,35,256,35"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,255,91"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="70,28,71,19,83,10,102,5,130,3,163,5,184,15,179,16,161,11,130,8,103,10,85,15,76,21,75,30"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1MultiValueMapRequest.html#a977855c9c215f3cb40685959791127e9" title=" " alt="" coords="303,38,578,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,58,290,60,285,60,255,63"/>
 </map>

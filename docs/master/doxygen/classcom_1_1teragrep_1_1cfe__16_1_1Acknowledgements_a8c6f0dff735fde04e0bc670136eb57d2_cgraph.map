@@ -1,5 +1,7 @@
 <map id="com.teragrep.cfe_16.Acknowledgements.acknowledge" name="com.teragrep.cfe_16.Acknowledgements.acknowledge">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,384,38"/>
-<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements_1_1State.html#ad9d95fec84a00a574b21981fc673f10a" title=" " alt="" coords="432,5,724,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="384,23,418,23,418,28,384,28"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,383,64"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1bo_1_1Ack.html#a9d8556b4d35b24fc4e12384fe560d743" title=" " alt="" coords="431,5,724,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,33,418,32,413,32,375,38"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements_1_1State.html#ad9d95fec84a00a574b21981fc673f10a" title=" " alt="" coords="432,57,723,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="383,62,419,67,414,67,383,67"/>
 </map>

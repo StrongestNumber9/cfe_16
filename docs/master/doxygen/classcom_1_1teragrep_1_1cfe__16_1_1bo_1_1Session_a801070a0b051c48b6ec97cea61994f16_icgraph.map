@@ -1,0 +1,9 @@
+<map id="com.teragrep.cfe_16.bo.Session.doesChannelExist" name="com.teragrep.cfe_16.bo.Session.doesChannelExist">
+<area shape="rect" id="Node000001" title=" " alt="" coords="298,75,562,119"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1service_1_1HECServiceImpl.html#ae25ae6381bbd75d4c499e4541962d2ff" title=" " alt="" coords="22,5,233,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="312,71,228,53,228,48,317,70"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1teragrep_1_1cfe__16_1_1service_1_1HECServiceImpl.html#a9ed9a0d5772181625f00edce5a2c611d" title="Returns the JSON object as a response of given HTTP event request." alt="" coords="22,75,233,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,98,234,100,233,94,285,96"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1teragrep_1_1cfe__16_1_1SessionManagerTests.html#ab5dc10db207373aae24d51fea78d6c29" title=" " alt="" coords="5,144,250,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="327,123,251,146,250,140,322,124"/>
+</map>

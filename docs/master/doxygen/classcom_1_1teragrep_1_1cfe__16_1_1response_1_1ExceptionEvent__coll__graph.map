@@ -1,5 +1,23 @@
 <map id="com.teragrep.cfe_16.response.ExceptionEvent" name="com.teragrep.cfe_16.response.ExceptionEvent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,228,148"/>
-<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1response_1_1ExceptionEventContext.html" title=" " alt="" coords="5,5,228,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,59,119,108,114,108,114,59"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1866,75,2088,119"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1response_1_1ExceptionEventContext.html" title=" " alt="" coords="1435,75,1658,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1673,94,1868,97,1863,97,1673,100"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1teragrep_1_1cfe__16_1_1bo_1_1HeaderInfo.html" title=" " alt="" coords="1058,83,1309,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1325,94,1438,97,1432,97,1325,100"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1teragrep_1_1cfe__16_1_1bo_1_1XForwardedForStub.html" title=" " alt="" coords="607,5,863,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="879,41,1034,64,1120,83,1115,82,1034,69,879,47"/>
+<area shape="rect" id="Node000005" href="$interfacecom_1_1teragrep_1_1cfe__16_1_1bo_1_1XForwardedFor.html" title=" " alt="" coords="276,23,552,51"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="567,30,609,31,604,32,568,35"/>
+<area shape="rect" id="Node000006" href="$interfacecom_1_1teragrep_1_1cfe__16_1_1Stubable.html" title=" " alt="" coords="5,83,222,111"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="201,77,343,50,339,53,202,82"/>
+<area shape="rect" id="Node000008" href="$interfacecom_1_1teragrep_1_1cfe__16_1_1bo_1_1XForwardedHost.html" title=" " alt="" coords="271,83,557,111"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="237,94,273,96,268,98,237,100"/>
+<area shape="rect" id="Node000010" href="$interfacecom_1_1teragrep_1_1cfe__16_1_1bo_1_1XForwardedProto.html" title=" " alt="" coords="286,137,542,182"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="198,112,306,136,301,138,198,117"/>
+<area shape="rect" id="Node000007" href="$classcom_1_1teragrep_1_1cfe__16_1_1bo_1_1XForwardedHostStub.html" title=" " alt="" coords="607,75,863,119"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="879,94,1060,97,1055,97,879,100"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="573,94,609,97,604,97,573,100"/>
+<area shape="rect" id="Node000009" href="$classcom_1_1teragrep_1_1cfe__16_1_1bo_1_1XForwardedProtoStub.html" title=" " alt="" coords="607,144,863,189"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="878,147,1034,125,1114,112,1119,111,1034,130,879,152"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="558,160,609,164,603,164,558,165"/>
 </map>

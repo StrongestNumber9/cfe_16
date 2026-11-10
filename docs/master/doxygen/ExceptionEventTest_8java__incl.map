@@ -1,5 +1,17 @@
 <map id="src/test/java/com/teragrep/cfe_16/response/ExceptionEventTest.java" name="src/test/java/com/teragrep/cfe_16/response/ExceptionEventTest.java">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,5,250,60"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,257,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,60,134,94,129,94,129,60"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="636,5,872,67"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,124,257,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,59,229,123,228,118,635,54"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="280,124,392,151"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="638,61,405,118,392,121,391,116,404,112,632,62"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="417,115,621,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="685,67,585,111,584,106,679,68"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="646,124,862,151"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="756,66,756,109,752,106,752,69"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="886,124,1122,151"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="831,65,960,118,955,117,830,70"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1146,124,1321,151"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="873,59,1136,112,1161,120,1155,120,1134,118,872,64"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1346,115,1578,160"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="873,50,1333,114,1327,115,872,55"/>
 </map>

@@ -1,5 +1,15 @@
 <map id="src/test/java/com/teragrep/cfe_16/event/JsonEventImplMessagesTest.java" name="src/test/java/com/teragrep/cfe_16/event/JsonEventImplMessagesTest.java">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,277,60"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="24,108,259,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,60,144,94,139,94,139,60"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="644,5,915,67"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,124,239,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="643,60,252,118,217,123,216,118,251,112,643,54"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="263,115,477,160"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="657,67,475,113,474,108,652,68"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="502,115,785,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="740,67,686,108,684,103,735,68"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="808,124,1025,151"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="822,65,889,115,884,114,820,70"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="1049,124,1286,151"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="898,65,1104,119,1098,119,898,70"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1310,124,1484,151"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="915,53,1098,79,1298,112,1326,120,1320,120,1298,118,1097,84,915,58"/>
 </map>

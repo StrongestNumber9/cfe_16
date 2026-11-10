@@ -1,5 +1,7 @@
 <map id="src/main/java/com/teragrep/cfe_16/response/ExceptionEventContext.java" name="src/main/java/com/teragrep/cfe_16/response/ExceptionEventContext.java">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,5,250,60"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,257,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,60,134,94,129,94,129,60"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,5,356,67"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,115,257,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,67,159,107,156,103,200,68"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="281,115,408,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,65,320,105,315,105,272,70"/>
 </map>

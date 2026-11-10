@@ -1,0 +1,4 @@
+var JsonResponse_8java =
+[
+    [ "com.teragrep.cfe_16.response.JsonResponse", "classcom_1_1teragrep_1_1cfe__16_1_1response_1_1JsonResponse.html", "classcom_1_1teragrep_1_1cfe__16_1_1response_1_1JsonResponse" ]
+];

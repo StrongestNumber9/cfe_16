@@ -1,5 +1,11 @@
 <map id="src/main/java/com/teragrep/cfe_16/SyslogBatch.java" name="src/main/java/com/teragrep/cfe_16/SyslogBatch.java">
-<area shape="rect" id="Node000001" title=" " alt="" coords="11,5,213,45"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,219,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,46,115,79,109,79,109,46"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="375,5,576,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,98,218,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="391,50,214,96,213,91,386,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="242,106,493,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="452,49,396,99,393,94,447,51"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="517,106,653,134"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="502,48,560,97,555,96,501,53"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="677,106,778,134"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="536,48,679,101,674,101,535,53"/>
 </map>

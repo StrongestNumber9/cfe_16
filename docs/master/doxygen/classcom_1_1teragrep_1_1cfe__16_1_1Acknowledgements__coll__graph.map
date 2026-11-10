@@ -1,7 +1,9 @@
 <map id="com.teragrep.cfe_16.Acknowledgements" name="com.teragrep.cfe_16.Acknowledgements">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,293,119"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="29,13,112,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,46,140,91,136,95,90,50"/>
-<area shape="rect" id="Node000003" href="$interfacecom_1_1teragrep_1_1cfe__16_1_1LifeCycle.html" title="An interface that own resources like threads for doing graceful shutdown." alt="" coords="136,5,320,45"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,57,163,95,159,91,197,53"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="60,123,348,151"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,14,88,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,48,187,121,182,124,77,53"/>
+<area shape="rect" id="Node000003" href="$interfacecom_1_1teragrep_1_1cfe__16_1_1LifeCycle.html" title="An interface that own resources like threads for doing graceful shutdown." alt="" coords="112,5,296,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,64,206,124,201,121,202,67"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1teragrep_1_1cfe__16_1_1config_1_1Configuration.html" title="A Spring&#45;utilizing class for getting configuration data." alt="" coords="320,5,522,50"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="366,57,232,125,230,120,361,57"/>
 </map>

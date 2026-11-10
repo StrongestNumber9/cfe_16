@@ -1,0 +1,7 @@
+<map id="com.teragrep.cfe_16.bo.Ack.acknowledge" name="com.teragrep.cfe_16.bo.Ack.acknowledge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="431,36,724,64"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a8c6f0dff735fde04e0bc670136eb57d2" title=" " alt="" coords="5,5,383,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="413,37,375,36,375,31,418,37"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1teragrep_1_1cfe__16_1_1Acknowledgements.html#a9544ac800392336cc3fa19b72234d014" title="Checks if the Ack with a given id is acknowledged." alt="" coords="43,57,345,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="413,62,345,70,345,65,418,62"/>
+</map>
